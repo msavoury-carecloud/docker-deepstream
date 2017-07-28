@@ -1,0 +1,28 @@
+{"event":"INFO","level":"info","message":"logger ready: no dependency description provided","timestamp":"2017-07-28T16:44:07.313Z"}
+{"event":"INFO","level":"info","message":"deepstream version: 2.3.6","timestamp":"2017-07-28T16:44:07.316Z"}
+{"event":"INFO","level":"info","message":"configuration file loaded from /etc/deepstream/config.yml","timestamp":"2017-07-28T16:44:07.317Z"}
+{"event":"INFO","level":"info","message":"library directory set to: /var/lib/deepstream","timestamp":"2017-07-28T16:44:07.317Z"}
+{"event":"INFO","level":"info","message":"messageConnector ready: no message connector specified","timestamp":"2017-07-28T16:44:07.318Z"}
+{"event":"INFO","level":"info","message":"storage ready: no storage connector specified","timestamp":"2017-07-28T16:44:07.318Z"}
+{"event":"INFO","level":"info","message":"cache ready: local cache","timestamp":"2017-07-28T16:44:07.318Z"}
+{"event":"INFO","level":"info","message":"authenticationHandler ready: none","timestamp":"2017-07-28T16:44:07.319Z"}
+{"event":"INFO","level":"info","message":"permissionHandler ready: valve permissions loaded from /etc/deepstream/permissions.yml","timestamp":"2017-07-28T16:44:07.328Z"}
+{"event":"CLUSTER_JOIN","level":"info","message":"j5o3l8f5-1fl7e8u7q17ko","timestamp":"2017-07-28T16:44:07.329Z"}
+{"event":"INFO","level":"info","message":"Listening for websocket connections on 0.0.0.0:6020/deepstream","timestamp":"2017-07-28T16:44:07.341Z"}
+{"event":"INFO","level":"info","message":"Listening for health checks on path /health-check ","timestamp":"2017-07-28T16:44:07.342Z"}
+{"event":"INFO","level":"info","message":"connectionEndpoint ready: WebSocket Connection Endpoint","timestamp":"2017-07-28T16:44:07.342Z"}
+{"event":"INFO","level":"info","message":"Deepstream started","timestamp":"2017-07-28T16:44:07.343Z"}
+{"event":"INFO","level":"info","message":"logger ready: no dependency description provided","timestamp":"2017-07-28T16:44:25.182Z"}
+{"event":"INFO","level":"info","message":"deepstream version: 2.3.6","timestamp":"2017-07-28T16:44:25.187Z"}
+{"event":"INFO","level":"info","message":"configuration file loaded from /etc/deepstream/config.yml","timestamp":"2017-07-28T16:44:25.188Z"}
+{"event":"INFO","level":"info","message":"library directory set to: /var/lib/deepstream","timestamp":"2017-07-28T16:44:25.188Z"}
+{"event":"INFO","level":"info","message":"messageConnector ready: no message connector specified","timestamp":"2017-07-28T16:44:25.188Z"}
+{"event":"INFO","level":"info","message":"storage ready: no storage connector specified","timestamp":"2017-07-28T16:44:25.188Z"}
+{"event":"INFO","level":"info","message":"cache ready: local cache","timestamp":"2017-07-28T16:44:25.188Z"}
+{"event":"INFO","level":"info","message":"authenticationHandler ready: none","timestamp":"2017-07-28T16:44:25.189Z"}
+{"event":"INFO","level":"info","message":"permissionHandler ready: valve permissions loaded from /etc/deepstream/permissions.yml","timestamp":"2017-07-28T16:44:25.198Z"}
+{"event":"CLUSTER_JOIN","level":"info","message":"j5o3lm7g-10kcrvbn1ssg0","timestamp":"2017-07-28T16:44:25.200Z"}
+{"event":"INFO","level":"info","message":"Listening for websocket connections on 0.0.0.0:6020/deepstream","timestamp":"2017-07-28T16:44:25.211Z"}
+{"event":"INFO","level":"info","message":"Listening for health checks on path /health-check ","timestamp":"2017-07-28T16:44:25.211Z"}
+{"event":"INFO","level":"info","message":"connectionEndpoint ready: WebSocket Connection Endpoint","timestamp":"2017-07-28T16:44:25.211Z"}
+{"event":"INFO","level":"info","message":"Deepstream started","timestamp":"2017-07-28T16:44:25.212Z"}
